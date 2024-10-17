@@ -1,0 +1,20 @@
+{  
+  "spriteName": "leiyi",  
+  "id": 1001,  
+  "position": {  
+    "x": 50,  
+    "y": 100  
+  },  
+  "skill1Animation": "A",  
+  "skill2Animation": "B",  
+  "skill3Animation": "C",  
+  "skill4Animation": "D",  
+  "ultimateAnimation": "E",  
+  "skillSet": [  
+    "雷神觉醒",  
+    "极光刃",  
+    "瞬雷天闪",  
+    "极点千鸟",  
+    "雷神天明闪"  
+  ]  
+}

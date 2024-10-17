@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cfe6x5mtrfxsl"
+path="res://.godot/imported/04_3_002.mp3-d3b6b32538a0c9093735ec7b8019091c.mp3str"
+
+[deps]
+
+source_file="res://BGM234/234-凯萨 (2)/moves/11466/04_3_002.mp3"
+dest_files=["res://.godot/imported/04_3_002.mp3-d3b6b32538a0c9093735ec7b8019091c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
