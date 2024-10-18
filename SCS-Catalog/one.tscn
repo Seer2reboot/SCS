@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://rmeb058si0bm"]
+
+[ext_resource type="Script" path="res://one.gd" id="1_7kics"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="Button" type="Button" parent="."]
+offset_left = 387.0
+offset_top = 425.0
+offset_right = 709.0
+offset_bottom = 494.0
+text = "启动载入"
+script = ExtResource("1_7kics")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+
+[connection signal="pressed" from="Button" to="Button" method="_on_pressed"]
